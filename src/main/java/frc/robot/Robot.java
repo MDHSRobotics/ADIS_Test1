@@ -6,7 +6,7 @@
 /*----------------------------------------------------------------------------*/
 
 // This program reads gyro data from an ADIS 16448 device as well as the Built-in
-// Analog gyro and reports the information to the SmartDashboard and to Shuffleboard console
+// Analog gyro and reports the information to the SmartDashboard and to Shuffleboard dashboard
 
 
 package frc.robot;
